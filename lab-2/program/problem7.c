@@ -2,7 +2,7 @@
 
 int main() {
     int n, sum_w = 0, i = 1, sum_for = 0;
-   
+
     printf("Enter value of n = ");
     scanf("%d", &n);
 
@@ -12,6 +12,7 @@ int main() {
     }
 
     for (i = 1; i <= n; i++) sum_for += ((i + 1) * (i + 2));
+
     printf("Sum of while loop: %d\n", sum_w);
     printf("Sum of for loop: %d\n", sum_for);
 
