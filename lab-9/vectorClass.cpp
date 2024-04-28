@@ -1,5 +1,5 @@
 /*
-roblem-2: Write down a class named Vector and provide appropriate constructor and 
+problem-3: Write down a class named Vector and provide appropriate constructor and 
 necessary functions to make the given main function executable.
 
 Submitted by Jayed Hoshen (DUET-CSE, id: 2204076)
